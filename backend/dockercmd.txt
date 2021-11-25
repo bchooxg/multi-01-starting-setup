@@ -1,0 +1,5 @@
+These are the commands to enter into the CLI in order to run docker 
+
+
+To create node server
+docker run --name goals-backend --rm -d -p 80:80 goals-node 
