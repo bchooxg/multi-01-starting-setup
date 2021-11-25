@@ -1,0 +1,7 @@
+
+to create react container
+
+for react you need to have -it since it expects to be able to enter commands or else the server will stop running immediately. 
+This is an issue with react
+
+docker run --name goals-frontend --rm -p 3000:3000 -it goals-react
